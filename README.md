@@ -1,4 +1,8 @@
-### Hi there 👋
+![alttext](wordart.png)
+
+<h3 align="center">
+Hello, world 👋
+</h3>
 
 <!--
 **RachelChiong/RachelChiong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
