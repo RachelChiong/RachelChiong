@@ -3,7 +3,7 @@
 <h3 align="center">
 Hello, world 👋
 </h3>
-<p>
+<p align="center">
 I accidentally fork things for work here sometimes
 </p>
 <!--
